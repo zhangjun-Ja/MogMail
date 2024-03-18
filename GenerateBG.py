@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 
-import configparser
+import configparser#hello world
 
 props = configparser.ConfigParser()
 props.read("pymail.conf", encoding="utf-8")
